@@ -33,7 +33,7 @@ Include in page, then use as a drop-in replacement for look-controls.
 You can optionally provide `look-controls` on the camera with specific parameter settings,  e.g. `<a-entity camera multitouch-look-controls look-controls="standing:false"></a-entity>`. If you do not specify any, a  `look-controls` with default settings will be created automatically. This usually works fine.
 
 ```
-<script src="https://morandd.github.io/aframe-multitouch-look-controls/multitouch-look-controls.js"></script>
+
 
 ...
 <a-entity camera multitouch-look-controls></a-entity>
